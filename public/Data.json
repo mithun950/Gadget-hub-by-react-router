@@ -1,0 +1,360 @@
+[
+  
+    {
+      "product_id": "101",
+      "product_title": "Smartphone X200",
+      "product_image": "https://www.91-cdn.com/hub/wp-content/uploads/2024/10/Vivo-X200-Pro-1200x900.png",
+      "category": "Smartphone",
+      "price": 699.99,
+      "description": "A powerful smartphone with a stunning display and excellent battery life.",
+      "Specification": [
+        "6.5-inch AMBLED Display",
+        "128GB Storage",
+        "6GB RAM",
+        "5000mAh Battery",
+        "Triple Camera Setup"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "102",
+      "product_title": "Smartphone Y500",
+      "product_image": "https://images.unsplash.com/photo-1596742578443-7682ef5251cd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnRwaG9uZXxlbnwwfHwwfHx8MA%3D%3D",
+      "category": "Smartphone",
+      "price": 799.99,
+      "description": "High performance smartphone with advanced features.",
+      "Specification": [
+        "6.7-inch OLED Display",
+        "256GB Storage",
+        "8GB RAM",
+        "4500mAh Battery",
+        "Quad Camera Setup"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "103",
+      "product_title": "Smartphone Z300",
+      "product_image": "https://plus.unsplash.com/premium_photo-1722092222965-2885cddcf2c1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U21hcnRwaG9uZSUyMFozMDB8ZW58MHx8MHx8fDA%3D",
+      "category": "Smartphone",
+      "price": 599.99,
+      "description": "A budget-friendly smartphone with great battery life.",
+      "Specification": [
+        "6.4-inch LCD Display",
+        "64GB Storage",
+        "4GB RAM",
+        "4000mAh Battery",
+        "Dual Camera Setup"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "104",
+      "product_title": "Smartphone A100",
+      "product_image": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U21hcnRwaG9uZSUyMFozMDB8ZW58MHx8MHx8fDA%3D",
+      "category": "Smartphone",
+      "price": 549.99,
+      "description": "Compact smartphone with premium build quality.",
+      "Specification": [
+        "5.8-inch Retina Display",
+        "128GB Storage",
+        "6GB RAM",
+        "3800mAh Battery",
+        "Dual Camera Setup"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "105",
+      "product_title": "Smartphone S900",
+      "product_image": "https://images.unsplash.com/photo-1530563885674-66db50a1af19?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFNtYXJ0cGhvbmUlMjBaMzAwfGVufDB8fDB8fHww",
+      "category": "Smartphone",
+      "price": 899.99,
+      "description": "Flagship smartphone with outstanding camera performance.",
+      "Specification": [
+        "6.9-inch QHD+ Display",
+        "512GB Storage",
+        "12GB RAM",
+        "5000mAh Battery",
+        "Penta Camera Setup"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "106",
+      "product_title": "Smartphone M400",
+      "product_image": "https://images.unsplash.com/photo-1600087626120-062700394a01?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFNtYXJ0cGhvbmUlMjBaMzAwfGVufDB8fDB8fHww",
+      "category": "Smartphone",
+      "price": 649.99,
+      "description": "Mid-range smartphone with excellent performance.",
+      "Specification": [
+        "6.3-inch Super AMOLED Display",
+        "128GB Storage",
+        "6GB RAM",
+        "4200mAh Battery",
+        "Triple Camera Setup"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+
+    {
+      "product_id": "107",
+      "product_title": "Laptop Pro 15",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ23qwXCpcTcOkA6rVY0yPjwDdhQINEuXPwyw&s",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "High-performance laptop for professionals and creators.",
+      "Specification": [
+        "15.6-inch Retina Display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Iris Graphics"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "108",
+      "product_title": "Laptop Air 13",
+      "product_image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGFwdG9wJTIwQWlyJTIwMTN8ZW58MHx8MHx8fDA%3D",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Lightweight and portable laptop for everyday use.",
+      "Specification": [
+        "13-inch Retina Display",
+        "Intel Core i5",
+        "8GB RAM",
+        "256GB SSD",
+        "Intel UHD Graphics"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "109",
+      "product_title": "Laptop Ultra 17",
+      "product_image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGFwdG9wJTIwQWlyJTIwMTN8ZW58MHx8MHx8fDA%3D",
+      "category": "Laptop",
+      "price": 1599.99,
+      "description": "Ultra-performance laptop for gaming and content creation.",
+      "Specification": [
+        "17.3-inch 4K Display",
+        "Intel Core i9",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce RTX 3080"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    
+    {
+      "product_id": "110",
+      "product_title": "Wireless Earbuds",
+      "product_image": "https://images.unsplash.com/photo-1623998019820-99c01e6d2e5b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UG9ydGFibGUlMjBCbHVldG9vdGglMjBTcGVha2VyfGVufDB8fDB8fHww",
+      "category": "Accessories",
+      "price": 59.99,
+      "description": "Comfortable, lightweight wireless earbuds with superior sound quality.",
+      "Specification": [
+        "Bluetooth 5.0",
+        "Noise Cancellation",
+        "4-hour Battery Life",
+        "Charging Case Included"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "111",
+      "product_title": "Portable Bluetooth Speaker",
+      "product_image": "https://plus.unsplash.com/premium_photo-1728978926426-18fdb1d00e8a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UG9ydGFibGUlMjBCbHVldG9vdGglMjBTcGVha2VyfGVufDB8fDB8fHww",
+      "category": "Accessories",
+      "price": 139.99,
+      "description": "Compact and powerful portable speaker with rich sound.",
+      "Specification": [
+        "Bluetooth 4.2",
+        "12-hour Battery Life",
+        "IPX7 Waterproof",
+        "Built-in Microphone"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "112",
+      "product_title": "Smartwatch Series 5",
+      "product_image": "https://plus.unsplash.com/premium_photo-1728582543415-1e28161533c6?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U21hcnR3YXRjaCUyMFNlcmllcyUyMDV8ZW58MHx8MHx8fDA%3D",
+      "category": "Accessories",
+      "price": 199.99,
+      "description": "Advanced smartwatch with health tracking and fitness features.",
+      "Specification": [
+        "1.4-inch Retina Display",
+        "GPS Tracking",
+        "Heart Rate Monitor",
+        "50m Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "113",
+      "product_title": "Noise Cancelling Headphones",
+      "product_image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Tm9pc2UlMjBDYW5jZWxsaW5nJTIwSGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D",
+      "category": "Accessories",
+      "price": 149.99,
+      "description": "Over-ear headphones with active noise cancellation for an immersive listening experience.",
+      "Specification": [
+        "Bluetooth 5.0",
+        "Active Noise Cancellation",
+        "30-hour Battery Life",
+        "Foldable Design"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "114",
+      "product_title": "Wireless Charging Pad",
+      "product_image": "https://plus.unsplash.com/premium_photo-1661481016238-b285d3bc954d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8V2lyZWxlc3MlMjBDaGFyZ2luZyUyMFBhZHxlbnwwfHwwfHx8MA%3D%3D",
+      "category": "Accessories",
+      "price": 229.99,
+      "description": "Convenient wireless charging pad compatible with most Qi-enabled devices.",
+      "Specification": [
+        "10W Fast Charging",
+        "Non-slip Surface",
+        "Overheat Protection",
+        "LED Indicator"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    
+    
+    {
+      "product_id": "115",
+      "product_title": "Smartwatch Z5",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOCRiuv1-ovp6N24Rbw0xo7OwsxVCR7UjLQ&s",
+      "category": "Wearable",
+      "price": 199.99,
+      "description": "Advanced smartwatch with fitness tracking and heart-rate monitor.",
+      "Specification": [
+        "1.4-inch LCD Display",
+        "GPS Enabled",
+        "Heart Rate Monitor",
+        "Sleep Tracking",
+        "Water Resistant"
+      ],
+      "availability": false,
+      "rating": 4.0
+    },
+    {
+      "product_id": "116",
+      "product_title": "4K Action Camera",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T_vVtHttYLMYvy1mwev0f6kIb8X9oi4m8Q&s",
+      "category": "Camera",
+      "price": 249.99,
+      "description": "Capture your adventures in stunning 4K quality.",
+      "Specification": [
+        "4K Ultra HD",
+        "Waterproof up to 30m",
+        "Wide-Angle Lens",
+        "WiFi Enabled",
+        "Built-in Stabilization"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "117",
+      "product_title": "Tablet A7",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFqbXHp_GlZQJCdNyUhxD9prMQXWQdQvqaA&s",
+      "category": "Tablet",
+      "price": 349.99,
+      "description": "Compact and powerful tablet for entertainment and productivity.",
+      "Specification": [
+        "10.1-inch HD Display",
+        "64GB Storage",
+        "4GB RAM",
+        "8000mAh Battery",
+        "WiFi and Cellular"
+      ],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": "118",
+      "product_title": "Gaming Headset",
+      "product_image": "https://plus.unsplash.com/premium_photo-1679177183750-0eda63444b24?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8R2FtaW5nJTIwSGVhZHNldHxlbnwwfHwwfHx8MA%3D%3D",
+      "category": "Accessories",
+      "price": 79.99,
+      "description": "Immersive gaming headset with noise-canceling microphone.",
+      "Specification": [
+        "50mm Drivers",
+        "Noise-Canceling Mic",
+        "LED Lighting",
+        "Over-Ear Design",
+        "7.1 Surround Sound"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "119",
+      "product_title": "Fitness Tracker Band",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNwf3zYkHPgf_dtqXxmxLS7LvSdbLRCqQhA&s",
+      "category": "Wearable",
+      "price": 149.99,
+      "description": "Track your activity, calories, and sleep with this compact fitness band.",
+      "Specification": [
+        "Step Counter",
+        "Calorie Tracker",
+        "Sleep Monitor",
+        "Water Resistant",
+        "Bluetooth Connectivity"
+      ],
+      "availability": true,
+      "rating": 3.9
+    },
+    {
+      "product_id": "120",
+      "product_title": "Drone Quadcopter",
+      "product_image": "data:image/jpeg;base64,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",
+      "category": "Drone",
+      "price": 499.99,
+      "description": "Capture stunning aerial footage with this high-tech drone.",
+      "Specification": [
+        "4K Camera",
+        "30-minute Flight Time",
+        "GPS & Follow Mode",
+        "Obstacle Avoidance",
+        "Remote Control Included"
+      ],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": "121",
+      "product_title": "Portable Bluetooth Speaker",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4dWX2VUMaIZz-oKBEJUnx8wH09hP4SliNQ&s",
+      "category": "Audio",
+      "price": 119.99,
+      "description": "Compact Bluetooth speaker with rich, deep sound and waterproof design.",
+      "Specification": [
+        "Bluetooth 5.0",
+        "10-hour Battery Life",
+        "Waterproof",
+        "Portable Design",
+        "Built-in Mic"
+      ],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  

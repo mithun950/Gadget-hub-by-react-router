@@ -1,0 +1,10 @@
+  [
+    { "product_id": "101", "category": "Smartphone" },
+    { "product_id": "102", "category": "Laptop" },
+    { "product_id": "103", "category": "Accessories" },
+    { "product_id": "104", "category": "Wearable" },
+    { "product_id": "105", "category": "Camera" },
+    { "product_id": "106", "category": "Tablet" },
+    { "product_id": "108", "category": "Drone" },
+    { "product_id": "119", "category": "Audio" }
+  ]
